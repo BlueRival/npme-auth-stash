@@ -4,7 +4,7 @@
   "description": "Atlassian Stash authentication and authorization strategy for npm Enterprise",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vkurkine/npme-auth-stash/npme-auth-stash.git"
+    "url": "https://github.com/BlueRival/npme-auth-stash.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/istanbul test ./node_modules/.bin/_mocha -- -R spec"
